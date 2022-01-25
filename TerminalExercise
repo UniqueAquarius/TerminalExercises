@@ -1,0 +1,12 @@
+1. Create a new directory/folder inside the “TerminalTwo” folder called “TerminalExercise”
+2. Inside “TerminalExercise” create a new directory/folder called “Marvel”
+3. Inside “Marvel” add 2 directories/folders: “Avengers” and “Villains”
+4. Inside “Avengers” create these files: “captainAmerica.txt”, “blackWidow.txt”, “ironMan.txt, and “happy.txt”
+5. Create a new directory/folder inside “Avengers” called “MoreAvengers”
+6. Inside “MoreAvengers” create these files: “falcon.txt”, “doctorStrange.txt”, and “blackPanther.txt”
+7. Get to the “Villains” directory/folder and create these files: “thanos.txt”, “ultron.txt”, “redSkull.txt” inside of it
+8. You decide Happy is not actually an Avenger. Remove the “happy.txt” file.
+9. Uh oh, Thanos snapped his fingers and now Falcon, Doctor Strange, and Black Panther are gone! Delete the “MoreAvengers” directory/folder.
+BONUS:
+Create a new folder inside of the “TerminalTwo” folder called “TerminalExerciseBonus” instead of “TerminalExercise”.
+Next move into the “TerminalExerciseBonus” folder and try to complete 2 through 9 again WITHOUT using the cd command (AKA Without moving out of the “TerminalExerciseBonus” folder/directory) (edited) 
